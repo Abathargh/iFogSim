@@ -1,0 +1,26 @@
+Creating Classifier on device cloud
+Creating WebApp on device cloud
+Creating DataCache on device hub-0
+Creating Sensor on device sifc-0
+Creating Actuator on device sifc-0
+0.0 Submitted application Moody
+=========================================
+============== RESULTS ==================
+=========================================
+EXECUTION TIME : 109
+=========================================
+APPLICATION LOOP DELAYS
+=========================================
+[Sensor, DataCache, WebApp] ---> null
+=========================================
+TUPLE CPU EXECUTION DELAY
+=========================================
+Sensor ---> 0.08571428571428896
+=========================================
+cloud : Energy Consumed = 28956.999999999996
+ISP-gateway : Energy Consumed = 24900.0
+sifc-0 : Energy Consumed = 420.0
+sifc-0 : Energy Consumed = 900.0
+hub-0 : Energy Consumed = 449.8666666666673
+Cost of execution in cloud = 1200.0
+Total network usage = 57.333333333333336
